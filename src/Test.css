@@ -1,0 +1,10 @@
+.box {
+    border: 1px solid rgb(214, 212, 212);
+    width: 30%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 5px 5px 7px grey;
+}

@@ -4,7 +4,7 @@ import './Navbar.css';
 function Nav() {
     return (
         <div className = "bar">
-            hello
+            THE BLOGGER
         </div>
     );
 }

@@ -1,12 +1,14 @@
 import React from 'react';
-import Test from './Test';
 import Nav from './Components/Navbar/Navbar';
+import Test from './Test';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import './Components/Navbar/Navbar.css';
 
 function App() {
   return (
-	<div>
+	<div className = "mainpage">
+		<Nav/>
 		<div className="App">	
 			<Test/>	
 			<Test/>	

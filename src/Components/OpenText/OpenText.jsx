@@ -6,6 +6,7 @@ function Title() {
             <h1>Well,Hello there !</h1>
             <Button href = "#section2" variant="outline-warning" size = "sm">Explore</Button>{' '}
             {/* did some change here */}
+            {/* second change */}
         </div>
     );
 }
